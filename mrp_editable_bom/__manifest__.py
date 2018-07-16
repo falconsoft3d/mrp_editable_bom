@@ -24,7 +24,7 @@
     'name': 'Lista de Materiales Editable en OP MFH',
     'version': '10.0.0.1.0',
     'author': "Falcon Solutions SpA",
-    'maintainer': 'Falcon Solutions SpA",
+    'maintainer': 'Falcon Solutions SpA',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'MRP',
